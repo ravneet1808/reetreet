@@ -1,0 +1,10 @@
+#addition
+3+2
+4+4
+6+6
+#subtraction
+3-9
+2-1
+#exponent
+2^5
+2^2
